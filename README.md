@@ -1,4 +1,4 @@
-# 📘 Overview
+## 📘 Overview
 
 This project presents an Open-Source Intelligence (OSINT)-based cybersecurity risk assessment of Netflix, Inc.
 It examines publicly available data to identify cloud dependencies, exposed assets, and potential vulnerabilities.
@@ -7,7 +7,9 @@ It examines publicly available data to identify cloud dependencies, exposed asse
 
 ### Cloud Provider: AWS
 
-### Architecture: Microservices, containers (Titus/Docker), distributed systems (Kafka, Cassandra, Spark)
+### Architecture: 
+
+Microservices, containers (Titus/Docker), distributed systems (Kafka, Cassandra, Spark)
 
 ### Risks:
 
