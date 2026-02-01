@@ -67,3 +67,8 @@ Continuously scan open-source dependencies.
 
 This project uses publicly available information only for academic and defensive purposes.
 No intrusive or illegal activity was performed.
+
+---
+## ❤️ Author
+
+Created by **Jeytha Sahana** 
