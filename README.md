@@ -1,11 +1,11 @@
 # Open-Source Intelligence (OSINT)-based cybersecurity risk assessment of Netflix, Inc.
 
-## 📘 Overview
+##  Overview
 
 This project presents an Open-Source Intelligence (OSINT)-based cybersecurity risk assessment of Netflix, Inc.
 It examines publicly available data to identify cloud dependencies, exposed assets, and potential vulnerabilities.
 
-## 🔍 Summary
+##  Summary
 
 ### Cloud Provider: AWS
 
@@ -25,7 +25,7 @@ Vulnerable open-source components (e.g., Genie CVE-2024-4701)
 
 Credential stuffing & API abuse
 
-## ⚙️ Methodology
+##  Methodology
 
 Only passive OSINT tools were used:
 
@@ -39,7 +39,7 @@ Security news and reports
 
 No intrusive or active scanning was performed.
 
-## 🧩 Key Findings
+##  Key Findings
 
 Cloud-first design increases configuration risk.
 
@@ -51,7 +51,7 @@ Large attack surface from numerous subdomains.
 
 Common threats: credential stuffing, API abuse, DDoS, and phishing.
 
-## 🛠️ Recommendations
+##  Recommendations
 
 Tighten cloud permissions and IAM roles.
 
@@ -63,7 +63,7 @@ Use API gateways with rate limits.
 
 Continuously scan open-source dependencies.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project uses publicly available information only for academic and defensive purposes.
 No intrusive or illegal activity was performed.
